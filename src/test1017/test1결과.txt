@@ -1,0 +1,27 @@
+1. 교수테이블에 등록된 레코드의 건수를 출력하기.
+professor 테이블의 레코드 갯수:16
+2. 교수테이블에 등록된 모든 정보를 출력하기
+Professor [profno=1001, name=김명선, id=captain, position=전임강사, salary=0, hiredate=Sat Jun 23 00:00:00 KST 1990, bonus=100, deptno=101, email=captain@abc.net, url=null]
+Professor [profno=1002, name=김명신, id=sweety, position=정교수, salary=0, hiredate=Thu Jan 30 00:00:00 KST 1997, bonus=60, deptno=101, email=sweety@abc.net, url=null]
+Professor [profno=1003, name=김자바, id=powerman, position=전임강사, salary=0, hiredate=Sat Mar 22 00:00:00 KST 2008, bonus=0, deptno=101, email=pman@power.com, url=null]
+Professor [profno=2011, name=엄호선, id=lamb1, position=전임강사, salary=0, hiredate=Thu Sep 01 00:00:00 KST 2011, bonus=0, deptno=102, email=lamb1@hamail.net, url=null]
+Professor [profno=2012, name=장혜진, id=number1, position=조교수, salary=0, hiredate=Thu Nov 30 00:00:00 KST 1995, bonus=80, deptno=102, email=number1@naver.com, url=null]
+Professor [profno=2013, name=이창익, id=bluedragon, position=정교수, salary=0, hiredate=Wed Apr 29 00:00:00 KST 1992, bonus=90, deptno=102, email=bdragon@naver.com, url=null]
+Professor [profno=3001, name=김도형, id=angel1004, position=정교수, salary=0, hiredate=Wed Oct 23 00:00:00 KST 1991, bonus=110, deptno=103, email=angel1004@hanmir.com, url=null]
+Professor [profno=3002, name=나한열, id=naone10, position=조교수, salary=0, hiredate=Sun Jul 01 00:00:00 KST 2007, bonus=50, deptno=103, email=naone10@empal.com, url=null]
+Professor [profno=3003, name=김현정, id=only-u, position=전임강사, salary=0, hiredate=Fri Feb 24 00:00:00 KST 2012, bonus=0, deptno=103, email=only_u@abc.com, url=null]
+Professor [profno=4001, name=심슨, id=simson, position=정교수, salary=0, hiredate=Wed Oct 23 00:00:00 KST 1991, bonus=130, deptno=201, email=chebin@daum.net, url=null]
+Professor [profno=4002, name=최슬기, id=gogogo, position=조교수, salary=0, hiredate=Fri Aug 30 00:00:00 KST 2019, bonus=0, deptno=201, email=gogogo@def.com, url=null]
+Professor [profno=4003, name=나몰라, id=mypride, position=조교수, salary=0, hiredate=Tue Dec 01 00:00:00 KST 2009, bonus=50, deptno=202, email=mypride@hanmail.net, url=null]
+Professor [profno=4004, name=아이유, id=ironman, position=전임강사, salary=0, hiredate=Mon Jan 28 00:00:00 KST 2019, bonus=0, deptno=202, email=ironman@naver.com, url=null]
+Professor [profno=4005, name=바비, id=standkang, position=정교수, salary=0, hiredate=Mon Sep 18 00:00:00 KST 1995, bonus=80, deptno=203, email=standkang@naver.com, url=null]
+Professor [profno=4006, name=비, id=napeople, position=전임강사, salary=0, hiredate=Mon Jun 28 00:00:00 KST 2010, bonus=0, deptno=301, email=napeople@jass.com, url=null]
+Professor [profno=4007, name=김태희, id=silver-her, position=조교수, salary=0, hiredate=Mon May 23 00:00:00 KST 2011, bonus=30, deptno=301, email=silver-her@daum.net, url=null]
+3. 교수중 101번 학과의 교수 정보를 출력하기
+Professor [profno=1001, name=김명선, id=captain, position=전임강사, salary=0, hiredate=Sat Jun 23 00:00:00 KST 1990, bonus=100, deptno=101, email=captain@abc.net, url=null]
+Professor [profno=1002, name=김명신, id=sweety, position=정교수, salary=0, hiredate=Thu Jan 30 00:00:00 KST 1997, bonus=60, deptno=101, email=sweety@abc.net, url=null]
+Professor [profno=1003, name=김자바, id=powerman, position=전임강사, salary=0, hiredate=Sat Mar 22 00:00:00 KST 2008, bonus=0, deptno=101, email=pman@power.com, url=null]
+4. 교수중 성이 김씨인 전임강사 정보를 출력하기
+Professor [profno=1001, name=김명선, id=captain, position=전임강사, salary=0, hiredate=Sat Jun 23 00:00:00 KST 1990, bonus=100, deptno=101, email=captain@abc.net, url=null]
+Professor [profno=1003, name=김자바, id=powerman, position=전임강사, salary=0, hiredate=Sat Mar 22 00:00:00 KST 2008, bonus=0, deptno=101, email=pman@power.com, url=null]
+Professor [profno=3003, name=김현정, id=only-u, position=전임강사, salary=0, hiredate=Fri Feb 24 00:00:00 KST 2012, bonus=0, deptno=103, email=only_u@abc.com, url=null]

@@ -1,0 +1,2 @@
+Test1.java 소스를 실행 했을때 각각 test1결과.txt
+ProfessorMapper2 인터페이스를 구현하기 

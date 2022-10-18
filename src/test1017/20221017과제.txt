@@ -1,0 +1,3 @@
+문제 : 
+Test1.java  소스를 실행 했을때 각각 test1결과.txt가 나오도록
+ProfessorMapper 인터페이스를 구현하기 
